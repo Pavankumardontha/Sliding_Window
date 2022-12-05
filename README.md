@@ -7,3 +7,4 @@
 6) Length of maximum subarray sum ( slight modification of kadanes algorithm)
 7) Longest subarray length with sum K ( gfg - hashing )
 8) Make sum divisible by P (leetcode - hashing)
+9) Max sum subarray of size k (gfg - sliding window)
