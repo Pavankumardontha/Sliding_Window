@@ -8,5 +8,6 @@
 7) Longest subarray length with sum K ( gfg - hashing )
 8) Make sum divisible by P (leetcode - hashing)
 9) Max sum subarray of size k (gfg - sliding window)
-10) First negative number in every window of size k (sliding window)
+10) First negative number in every window of size k (gfg - sliding window)
+11) Contains Duplicates - 2 (leetcode - sliding window)
 
