@@ -13,4 +13,6 @@
 12) Maximum Sum of Distinct Subarrays With Length K (leetcode - sliding window)
 13) Minimum Recolors to Get K Consecutive Black Blocks (leetcode - sliding window)
 14) Minimum Consecutive Cards to Pick Up (leetcode - hashing)
+15) Find All Anagrams in a String
+
 
