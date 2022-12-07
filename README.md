@@ -10,4 +10,5 @@
 9) Max sum subarray of size k (gfg - sliding window)
 10) First negative number in every window of size k (gfg - sliding window)
 11) Contains Duplicates - 2 (leetcode - sliding window)
+12) Maximum Sum of Distinct Subarrays With Length K (leetcode - sliding window)
 
