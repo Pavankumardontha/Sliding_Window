@@ -15,6 +15,7 @@
 14) Minimum Consecutive Cards to Pick Up (leetcode - hashing)
 15) Find All Anagrams in a String (leetcode - sliding window)
 16) Minimum Swaps required to group all 1s together (gfg - sliding window)
+17) Minimum Swaps required to group all 1s together - 2 (leetcode - sliding window very important)
 
 
 
