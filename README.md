@@ -32,3 +32,7 @@
 9) Find All Anagrams in a String (leetcode - sliding window)
 10) Minimum Swaps required to group all 1s together (gfg - sliding window)
 11) Minimum Swaps required to group all 1s together - 2 (leetcode - sliding window very important)
+
+# Latest
+1) Longest Substring Without Repeating Characters
+2) Get Equal Substrings Within Budget
