@@ -20,7 +20,7 @@
 
 
 
-# Slinding window
+# Sliding window
 1) Permutation in string (leetcode)
 2) Count of subarrays with sum less than k 
 3) Max sum subarray of size k 
