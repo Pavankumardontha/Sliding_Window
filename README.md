@@ -38,7 +38,7 @@
 2) Longest repeating character replacement
 3) Max Consecutive Ones III
 4) Fruit into Baskets
-5) Longest Substring with At Mosk K Distinct Characters
+5) Longest Substring with At Mosk K Distinct Characters ( locked leetcode problem )
 6) Maximum Points You Can Obtain from Cards
 7) Number of Substrings Containing All Three Characters
 8) Get Equal Substrings Within Budget
