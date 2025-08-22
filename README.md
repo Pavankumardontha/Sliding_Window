@@ -36,9 +36,10 @@
 # Latest
 1) Longest Substring Without Repeating Characters
 2) Longest repeating character replacement
-3) Get Equal Substrings Within Budget
-4) Repeated DNA Sequences
-5) Arithmetic slices
+3) Maximum Points You Can Obtain from Cards
+4) Get Equal Substrings Within Budget
+5) Repeated DNA Sequences
+6) Arithmetic slices
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
