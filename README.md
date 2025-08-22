@@ -37,3 +37,9 @@
 1) Longest Substring Without Repeating Characters
 2) Get Equal Substrings Within Budget
 3) Repeated DNA Sequences
+
+
+# Missed problems
+1) Longest substring with atleast k repeating characters
+
+
