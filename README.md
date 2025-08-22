@@ -37,11 +37,12 @@
 1) Longest Substring Without Repeating Characters
 2) Longest repeating character replacement
 3) Max Consecutive Ones III
-4) Maximum Points You Can Obtain from Cards
-5) Number of Substrings Containing All Three Characters
-6) Get Equal Substrings Within Budget
-7) Repeated DNA Sequences
-8) Arithmetic slices
+4) Fruit into Baskets
+5) Maximum Points You Can Obtain from Cards
+6) Number of Substrings Containing All Three Characters
+7) Get Equal Substrings Within Budget
+8) Repeated DNA Sequences
+9) Arithmetic slices
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
