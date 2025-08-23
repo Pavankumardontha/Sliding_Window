@@ -40,11 +40,12 @@
 4) Fruit into Baskets
 5) Longest Substring with At Mosk K Distinct Characters (locked leetcode problem)
 6) Count Subarrays Where Max Element Appears at Least K Times
-7) Maximum Points You Can Obtain from Cards
-8) Number of Substrings Containing All Three Characters
-9) Get Equal Substrings Within Budget
-10) Repeated DNA Sequences
-11) Arithmetic slices
+7) Subarrays with K Different Integers
+8) Maximum Points You Can Obtain from Cards
+9) Number of Substrings Containing All Three Characters
+10) Get Equal Substrings Within Budget
+11) Repeated DNA Sequences
+12) Arithmetic slices
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
