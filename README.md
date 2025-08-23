@@ -41,11 +41,12 @@
 5) Longest Substring with At Mosk K Distinct Characters (locked leetcode problem)
 6) Count Subarrays Where Max Element Appears at Least K Times
 7) Subarrays with K Different Integers
-8) Maximum Points You Can Obtain from Cards
-9) Number of Substrings Containing All Three Characters
-10) Get Equal Substrings Within Budget
-11) Repeated DNA Sequences
-12) Arithmetic slices
+8) Binary Subarrays with Sum
+9) Maximum Points You Can Obtain from Cards
+10) Number of Substrings Containing All Three Characters
+11) Get Equal Substrings Within Budget
+12) Repeated DNA Sequences
+13) Arithmetic slices
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
