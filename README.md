@@ -42,12 +42,13 @@
 6) Count Subarrays Where Max Element Appears at Least K Times
 7) Count Substrings With K-Frequency Characters I
 8) Subarrays with K Different Integers
-9) Binary Subarrays with Sum
-10) Maximum Points You Can Obtain from Cards
-11) Number of Substrings Containing All Three Characters
-12) Get Equal Substrings Within Budget
-13) Repeated DNA Sequences
-14) Arithmetic slices
+9) Count Complete Subarrays in an Array
+10) Binary Subarrays with Sum
+11) Maximum Points You Can Obtain from Cards
+12) Number of Substrings Containing All Three Characters
+13) Get Equal Substrings Within Budget
+14) Repeated DNA Sequences
+15) Arithmetic slices
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
