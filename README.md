@@ -52,6 +52,7 @@
 16) Get Equal Substrings Within Budget
 17) Repeated DNA Sequences
 18) Arithmetic slices
+19) Minimum window substring
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
