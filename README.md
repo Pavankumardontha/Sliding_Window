@@ -45,12 +45,13 @@
 9) Subarrays with K Different Integers
 10) Count Complete Subarrays in an Array
 11) Count the Number of Good Subarrays
-12) Binary Subarrays with Sum
-13) Maximum Points You Can Obtain from Cards
-14) Number of Substrings Containing All Three Characters
-15) Get Equal Substrings Within Budget
-16) Repeated DNA Sequences
-17) Arithmetic slices
+12) Length of Longest Subarray With at Most K Frequency
+13) Binary Subarrays with Sum
+14) Maximum Points You Can Obtain from Cards
+15) Number of Substrings Containing All Three Characters
+16) Get Equal Substrings Within Budget
+17) Repeated DNA Sequences
+18) Arithmetic slices
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
