@@ -54,6 +54,7 @@
 18) Arithmetic slices
 19) Minimum window substring
 20) Longest Subarray of 1's After Deleting One Element
+21) Maximum Score of a Good Subarray
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
