@@ -56,6 +56,7 @@
 20) Longest Subarray of 1's After Deleting One Element
 21) Minimum Swaps to Group All 1's Together - II
 22) Maximum Score of a Good Subarray
+23) Minimum Operations to Make Binary Array Elements Equal to One I
 
 # Missed problems
 1) Longest substring with atleast k repeating characters
