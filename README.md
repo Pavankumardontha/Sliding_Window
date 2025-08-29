@@ -59,6 +59,7 @@
 23) Maximum Score of a Good Subarray
 24) Minimum Operations to Make Binary Array Elements Equal to One I
 25) Find Longest Special Substring That Occurs Thrice I
+26) Sliding Window Maximum
 
 
 # Missed problems
